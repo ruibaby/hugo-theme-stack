@@ -1,0 +1,11 @@
+id: CaiJimmy_stack
+name: Stack
+author:
+  name: Jimmy Cai
+  website: https://jimmycai.com
+description: Card-style Halo theme designed for bloggers
+logo: https://avatars.githubusercontent.com/u/5889006?v=4
+website: https://github.com/ruibaby/halo-theme-stack
+repo: https://github.com/ruibaby/halo-theme-stack
+version: 1.0.0
+require: 1.5.0
